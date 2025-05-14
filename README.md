@@ -17,8 +17,8 @@ A web-based tool that encrypts and decrypts image files using the **AES (Advance
 ## 🛠️ Technologies Used
 
 - 💻 HTML5, CSS3, JavaScript
-- 🔐 AES Algorithm (CryptoJS library)
-- 📦 Bootstrap (for responsive UI)
+- 🔐 AES Algorithm (PyCryptodome)
+- 📦 Flask (Python web framework)
 
 ---
 
@@ -35,7 +35,13 @@ A web-based tool that encrypts and decrypts image files using the **AES (Advance
 
 ## 📸 Screenshots
 
-_Add screenshots here to showcase the UI_
+![Screenshot 2024-05-26 234405](https://github.com/user-attachments/assets/d6985df6-377e-42f1-a3e0-add368ae16d9)
+
+![Screenshot 2024-05-26 234450](https://github.com/user-attachments/assets/1d0149c5-15f3-4a06-abde-17d08fd6593c)
+
+![Screenshot 2024-05-26 234535](https://github.com/user-attachments/assets/40ad1a96-f288-4a91-b443-627fb3bb726c)
+
+
 
 ---
 
