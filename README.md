@@ -43,7 +43,4 @@ A web-based tool that encrypts and decrypts image files using the **AES (Advance
 
 
 
----
-
-## 📂 Folder Structure
 
